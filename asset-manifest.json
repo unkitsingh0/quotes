@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/quotesAppFrontend/static/css/main.d50a2309.css",
-    "main.js": "/quotesAppFrontend/static/js/main.0073ccae.js",
-    "index.html": "/quotesAppFrontend/index.html",
-    "main.d50a2309.css.map": "/quotesAppFrontend/static/css/main.d50a2309.css.map",
-    "main.0073ccae.js.map": "/quotesAppFrontend/static/js/main.0073ccae.js.map"
+    "main.css": "/quotes/static/css/main.d92e28fb.css",
+    "main.js": "/quotes/static/js/main.f9c03be1.js",
+    "index.html": "/quotes/index.html",
+    "main.d92e28fb.css.map": "/quotes/static/css/main.d92e28fb.css.map",
+    "main.f9c03be1.js.map": "/quotes/static/js/main.f9c03be1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d50a2309.css",
-    "static/js/main.0073ccae.js"
+    "static/css/main.d92e28fb.css",
+    "static/js/main.f9c03be1.js"
   ]
 }
